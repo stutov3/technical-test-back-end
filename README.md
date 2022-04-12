@@ -1,6 +1,5 @@
 ## About Software Development @ Cyberhawk
 
-need some content for this section
 
 ## The task
 We've designed this task to try and give you the ability to show us what you can do and hopefully flex your technical and creative muscles. You can't show off too much here, show us you at your best and wow us!
@@ -23,18 +22,13 @@ Don't be afraid of submitting incomplete code or code that isn't quite doing wha
 Just Document what you had hoped to achieve and your thoughts behind any unfinished code, so that we know what your plan was.
 
 ### Requirements
-- Display a list of turbine inspections
 - Each Turbine should have a number of components
 - A component can be given a grade from 1 to 5 (1 being perfect and 5 being completely broken/missing)
 - Use Laravel Models to represent the Entities in the task.
 - Conform to the spec provided in the `api-spec.yaml` file in the root of this project.
+    - If your API matches the spec the provided pre-built front-end should be able to display the data provided via your API
 
 ### Bonus Points
-- Great UX/UI
-- Use of React JS
-- Use of Tailwind CSS
-- Use of 3D
-- Use of a web map technology in the display of the data
 - Automated tests
 - API Authentication
 - API Authorization
